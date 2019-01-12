@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <style>
+        #popupDiv{
+          width:300px; height:150px; background-color:yellow;
+          position : absolute;
+          left: 50%;
+          top : 50%;
+          margin-left: -150px;
+          margin-top : -50px;
+          padding: 35px;
+          z-index: 1;
+          display: none;
+
+        }
+
+    </style>
+  </head>
+  <body>
+    <h3>학과 소개</h3>
+    <ul type ="square" id="majorUl">
+       <li class="li1">컴퓨터 <button type="button" id="but">확인</button></li>
+       <li class="li1">미술 <button type="button" id="but">확인</button></li>
+       <li class="li1">기계 <button type="button" id="but">확인</button></li>
+
+    </ul>
+    <div id="popupDiv">
+          <div id="title"> </div>
+
+        <div class="">
+            <input type = "text" id="inputText">
+        </div>
+
+        <div>
+          <button type="button">close</button>
+        </div>
+
+    </div>
+    <script type="text/javascript">
+     $("majorUl").on("click",".li1 button", function(){
+        //li요소개체의 참조값을    ==> 버튼객체의 부모값
+        var li1 = $(this).parent();
+        var text1 = li1.text();
+        $("#title").html("전공 선택");
+        $("#inputText").val(text1);
+        $("#popupDiv").show("slow");
+       });
+        $("#closeBtn").on("click",function(){
+        $("#popupDiv").hide("slow");
+          });
+                // var li1 =$(this) 현재 버튼객체   //li1 이란 참조변수에
+        //li1 안에 innerhtml 처럼쓸수있는 메소드가있다 내장된함수 "text"
+        //위에 body 태그의  class = li1 사이에있는 택스트들만 반환맏기
+        //$(#title).html(); ==>id (31번째줄)이니까 #을붙여줌 " " 도 붙여줌
+        //48  val = value
+        //51 -> 38  : close -- 클릭했을때= > on
+     }
+   );
+    </script>
+  </body>
+</html>
