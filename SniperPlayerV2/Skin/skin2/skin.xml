@@ -1,0 +1,24 @@
+<SKIN height="71" font="9">
+	<ITEM id="TIME_TEXT" x="194" y ="24" r="227" g="227" b="227" leftbk="362" topbk="145" rightbk="363" bottombk="157"></ITEM>
+	<ITEM id="ID_BACK_LEFT" left="1" top="73" right="182" bottom="144"></ITEM>
+	<ITEM id="ID_BACK_CENTER" left="183" top="73" right="184" bottom="144"></ITEM>
+	<ITEM id="ID_BACK_RIGHT" left="1" top="1" right="617" bottom="72" ></ITEM>
+	<ITEM id="ID_PAUSE" left="381" top="73" right="576" bottom="118" x= "65" y="22"></ITEM>
+	<ITEM id="ID_PLAY" left="185" top="73" right="380" bottom="118" x="65" y="22"></ITEM>
+	<ITEM id="ID_REPEAT_SLIDER" left="333" top="157" right="348" bottom="160" leftbk="349" topbk="157" rightbk="350" bottombk="160" x="25" y="1" x2="-6" y2="4"></ITEM>
+	<ITEM id="ID_TIME_SLIDER" left="416" top="161" right="419" bottom="175" leftbar="333" topbar="161" rightbar="414" bottombar="175" x="27" y="4" x2="-8" y2="18"></ITEM>
+
+	<ITEM id="ID_VOLUME_SLIDER2" left="422" top="145" right="522" bottom="165" x="-100" y="40" x2="-50" y2="60"></ITEM>
+	<ITEM id="ID_PREV" left="1" top="145" right="166" bottom="182" x="8" y="27"></ITEM>
+	<ITEM id="ID_NEXT" left="167" top="145" right="332" bottom="182" x="133" y="27"></ITEM>
+	<ITEM id="ID_FULL" left="523" top="145" right="592" bottom="168" x="-33" y="38"></ITEM>
+	<ITEM id="ID_REPEAT" left="333" top="145" right="361" bottom="156" x="8" y="5"></ITEM>
+	<ITEM id="ID_SOUND" left="556" top="119" right="614" bottom="141" x="-147" y="40"></ITEM>
+	<ITEM id="ID_08" left="185" top="119" right="237" bottom="141" x="-338" y="42"></ITEM>
+	<ITEM id="ID_10" left="238" top="119" right="290" bottom="141" x="-312" y="42"></ITEM>
+	<ITEM id="ID_12" left="291" top="119" right="343" bottom="141" x="-286" y="42"></ITEM>
+	<ITEM id="ID_14" left="344" top="119" right="396" bottom="141" x="-260" y="42"></ITEM>
+	<ITEM id="ID_16" left="397" top="119" right="449" bottom="141" x="-234" y="42"></ITEM>
+	<ITEM id="ID_18" left="450" top="119" right="502" bottom="141" x="-208" y="42"></ITEM>
+	<ITEM id="ID_20" left="503" top="119" right="555" bottom="141" x="-182" y="42"></ITEM>
+</SKIN>

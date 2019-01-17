@@ -1,0 +1,23 @@
+<SKIN height="52" font="9">
+	<ITEM id="TIME_TEXT" x="136" y ="31" r="150" g="150" b="150" leftbk="178" topbk="113" rightbk="179" bottombk="125"></ITEM>
+	<ITEM id="ID_BACK_LEFT" left="1" top="185" right="8" bottom="238"></ITEM>
+	<ITEM id="ID_BACK_CENTER" left="9" top="185" right="10" bottom="238"></ITEM>
+	<ITEM id="ID_BACK_RIGHT" left="11" top="185" right="199" bottom="238"></ITEM>
+	<ITEM id="ID_PAUSE" left="1" top="36" right="124" bottom="70" x="0" y="19"></ITEM>
+	<ITEM id="ID_PLAY" left="1" top="1" right="124" bottom="35" x="0" y="19"></ITEM>
+	<ITEM id="ID_REPEAT_SLIDER" left="182" top="137" right="197" bottom="140" leftbk="198" topbk="137" rightbk="199" bottombk="140" x="5" y="2" x2="-6" y2="5"></ITEM>
+	<ITEM id="ID_TIME_SLIDER" left="178" top="128" right="181" bottom="140" leftbar="107" topbar="141" rightbar="188" bottombar="153" x="7" y="5" x2="-8" y2="17"></ITEM>	
+	<ITEM id="ID_VOLUME_SLIDER2" left="1" top="169" right="163" bottom="180" x="-111" y="30" x2="-30" y2="41"></ITEM>
+	<ITEM id="ID_PREV" left="1" top="71" right="121" bottom="105" x="41" y="19"></ITEM>
+	<ITEM id="ID_NEXT" left="1" top="106" right="121" bottom="140" x="81" y="19"></ITEM>
+	<ITEM id="ID_FULL" left="107" top="154" right="152" bottom="167" x="-23" y="28"></ITEM>
+	<ITEM id="ID_REPEAT" left="153" top="154" right="185" bottom="166" x="-177" y="30"></ITEM>
+	<ITEM id="ID_SOUND" left="164" top="167" right="200" bottom="184" x="-151" y="27"></ITEM>
+	<ITEM id="ID_08" left="125" top="1" right="177" bottom="28" x="-374" y="19"></ITEM>
+	<ITEM id="ID_10" left="125" top="29" right="177" bottom="56" x="-348" y="19"></ITEM>
+	<ITEM id="ID_12" left="125" top="57" right="177" bottom="84" x="-322" y="19"></ITEM>
+	<ITEM id="ID_14" left="125" top="85" right="177" bottom="112" x="-296" y="19"></ITEM>
+	<ITEM id="ID_16" left="125" top="113" right="177" bottom="140" x="-270" y="19"></ITEM>
+	<ITEM id="ID_18" left="1" top="141" right="53" bottom="168" x="-244" y="19"></ITEM>
+	<ITEM id="ID_20" left="54" top="141" right="106" bottom="168" x="-218" y="19"></ITEM>
+</SKIN>

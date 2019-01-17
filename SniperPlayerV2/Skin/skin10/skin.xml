@@ -1,0 +1,22 @@
+<SKIN height="54" font="9">
+	<ITEM id="ID_BACK_LEFT" left="1" top="1" right="133" bottom="55"></ITEM>
+	<ITEM id="ID_BACK_CENTER" left="134" top="1" right="135" bottom="55"></ITEM>
+	<ITEM id="ID_BACK_RIGHT" left="136" top="1" right="299" bottom="55" ></ITEM>
+	<ITEM id="CURTIME_TEXT" x="65" y ="12" r="60" g="149" b="175" leftbk="45" topbk="5" rightbk="46" bottombk="17"></ITEM>
+	<ITEM id="DURATION_TEXT" x="-45" y ="12" r="0" g="0" b="0" leftbk="45" topbk="5" rightbk="46" bottombk="17"></ITEM>
+	<ITEM id="ID_TIME_SLIDER" leftbar="83" topbar="194" rightbar="137" bottombar="213" left="138" top="194" right="141" bottom="213" x="120" y="7" x2="-70" y2="26"></ITEM>
+	<ITEM id="ID_REPEAT_SLIDER2" left="141" top="156" right="146" bottom="161" leftbk="134" topbk="1" rightbk="135" bottombk="7" x="120" y="1" x2="-70" y2="7"></ITEM>
+	<ITEM id="ID_PLAY" left="1" top="56"  right="154" bottom="104" x="7" y="3"></ITEM>
+	<ITEM id="ID_PAUSE" left="1" top="106" right="154" bottom="155" x="7" y="3"></ITEM>
+	<ITEM id="ID_PREV" left="1" top="156" right="37"  bottom="172" x="65" y="30"></ITEM>
+	<ITEM id="ID_STOP" left="38" top="156" right="68"  bottom="172" x="87" y="30"></ITEM>
+	<ITEM id="ID_NEXT" left="69" top="156" right="105" bottom="172" x="108" y="30"></ITEM>
+	<ITEM id="ID_SOUND" left="106" top="156" right="141" bottom="170" x="140" y="32"></ITEM>
+	<ITEM id="ID_VOLUME_SLIDER2" left="142" top="194" right="302" bottom="201" x="164" y="36" x2="244" y2="43"></ITEM>
+	<ITEM id="ID_DEC_PLAYRATE" left="1"  top="173" right="61"  bottom="193" x="-162" y="30"></ITEM>
+	<ITEM id="PLAYRATE_TEXT" x="-140" y ="35" r="0" g="0" b="0" leftbk="150" topbk="35" rightbk="151" bottombk="47"></ITEM>
+	<ITEM id="ID_INC_PLAYRATE" left="64" top="173" right="124" bottom="193" x="-119" y="30"></ITEM>
+	<ITEM id="ID_REPEAT2" left="1" top="194" right="82" bottom="214" x="-93" y="30"></ITEM>
+	<ITEM id="ID_SUBTITLE" left="1" top="215" right="57" bottom="234" x="-65" y="30"></ITEM>
+	<ITEM id="ID_FULL" left="58" top="215" right="139" bottom="234" x="-37" y="30"></ITEM>
+</SKIN>

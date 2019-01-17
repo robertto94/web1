@@ -1,0 +1,25 @@
+<SKIN height="64" font="9">
+	<ITEM id="TIME_TEXT" x="145" y ="18" r="0" g="0" b="0" leftbk="160" topbk="200" rightbk="161" bottombk="212"></ITEM>
+	<ITEM id="ID_BACK_LEFT" left="1" top="1" right="277" bottom="95"></ITEM>
+	<ITEM id="ID_BACK_CENTER" left="278" top="1" right="279" bottom="95"></ITEM>
+	<ITEM id="ID_BACK_RIGHT" left="280" top="1" right="427" bottom="95" ></ITEM>
+	<ITEM id="ID_PAUSE" left="245" top="114" right="329" bottom="146" x="42" y="14"></ITEM>
+	<ITEM id="ID_PLAY" left="160" top="114" right="244" bottom="146" x="44" y="14"></ITEM>
+	<ITEM id ="ID_REPEAT_SLIDER" left="160" top="196" right="175" bottom="199" leftbk="176" topbk="196" rightbk="177" bottombk="199" x="270" y="30" x2="-20" y2="34"></ITEM>
+	
+	
+	<ITEM id="ID_TIME_SLIDER" leftbar="160" topbar="180" rightbar="199" bottombar="187" left="200" top="180" right="203" bottom="187" x="272" y="20" x2="-22" y2="15"></ITEM>	
+	<ITEM id="ID_VOLUME_SLIDER" leftbar="160" topbar="188" rightbar="199"  bottombar="195" left="200" top="188" right="203" bottom="195" x="-90" y="50" x2="-10" y2="40"></ITEM>
+	<ITEM id="ID_PREV" left="160" top="147" right="220" bottom="161" x="9" y="18"></ITEM>
+	<ITEM id="ID_NEXT" left="221" top="147" right="281" bottom="161" x="80" y="18"></ITEM>
+	<ITEM id="ID_FULL" left="203" top="162" right="266" bottom="179" x="-135" y="46"></ITEM>
+	<ITEM id="ID_REPEAT" left="160" top="162" right="202" bottom="179" x="-151" y="46"></ITEM>
+	<ITEM id="ID_SOUND" left="267" top="162" right="295" bottom="173" x="-105" y="49"></ITEM>
+	<ITEM id="ID_08" left="1" top="227" right="45" bottom="244" x="-315" y="46"></ITEM>
+	<ITEM id="ID_10" left="46" top="227" right="90" bottom="244" x="-293" y="46"></ITEM>
+	<ITEM id="ID_12" left="91" top="227" right="135" bottom="244" x="-271" y="46"></ITEM>
+	<ITEM id="ID_14" left="136" top="227" right="180" bottom="244" x="-249" y="46"></ITEM>
+	<ITEM id="ID_16" left="181" top="227" right="225" bottom="244" x="-227" y="46"></ITEM>
+	<ITEM id="ID_18" left="226" top="227" right="270" bottom="244" x="-205" y="46"></ITEM>
+	<ITEM id="ID_20" left="271" top="227" right="315" bottom="244" x="-183" y="46"></ITEM> 
+</SKIN>
